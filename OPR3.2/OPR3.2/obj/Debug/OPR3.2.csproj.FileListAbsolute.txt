@@ -1,0 +1,5 @@
+C:\Users\hazin\source\repos\OPR3.2\OPR3.2\obj\Debug\OPR3.2.csproj.AssemblyReference.cache
+C:\Users\hazin\source\repos\OPR3.2\OPR3.2\obj\Debug\SumCalculator.MainForm.resources
+C:\Users\hazin\source\repos\OPR3.2\OPR3.2\obj\Debug\OPR3._2.Properties.Resources.resources
+C:\Users\hazin\source\repos\OPR3.2\OPR3.2\obj\Debug\OPR3.2.csproj.GenerateResource.cache
+C:\Users\hazin\source\repos\OPR3.2\OPR3.2\obj\Debug\OPR3.2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\hazin\source\repos\OPR3.1\OPR3.1\bin\Debug\OPR3.1.exe.config
+C:\Users\hazin\source\repos\OPR3.1\OPR3.1\bin\Debug\OPR3.1.exe
+C:\Users\hazin\source\repos\OPR3.1\OPR3.1\bin\Debug\OPR3.1.pdb
+C:\Users\hazin\source\repos\OPR3.1\OPR3.1\obj\Debug\OPR3.1.csproj.AssemblyReference.cache
+C:\Users\hazin\source\repos\OPR3.1\OPR3.1\obj\Debug\OPR3._1.Properties.Resources.resources
+C:\Users\hazin\source\repos\OPR3.1\OPR3.1\obj\Debug\OPR3.1.csproj.GenerateResource.cache
+C:\Users\hazin\source\repos\OPR3.1\OPR3.1\obj\Debug\OPR3.1.csproj.CoreCompileInputs.cache
+C:\Users\hazin\source\repos\OPR3.1\OPR3.1\obj\Debug\OPR3.1.exe
+C:\Users\hazin\source\repos\OPR3.1\OPR3.1\obj\Debug\OPR3.1.pdb
