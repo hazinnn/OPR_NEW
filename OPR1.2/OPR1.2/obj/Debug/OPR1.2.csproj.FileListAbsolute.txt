@@ -1,0 +1,7 @@
+C:\Users\hazin\source\repos\OPR1.2\OPR1.2\bin\Debug\OPR1.2.exe.config
+C:\Users\hazin\source\repos\OPR1.2\OPR1.2\bin\Debug\OPR1.2.exe
+C:\Users\hazin\source\repos\OPR1.2\OPR1.2\bin\Debug\OPR1.2.pdb
+C:\Users\hazin\source\repos\OPR1.2\OPR1.2\obj\Debug\OPR1.2.csproj.AssemblyReference.cache
+C:\Users\hazin\source\repos\OPR1.2\OPR1.2\obj\Debug\OPR1.2.csproj.CoreCompileInputs.cache
+C:\Users\hazin\source\repos\OPR1.2\OPR1.2\obj\Debug\OPR1.2.exe
+C:\Users\hazin\source\repos\OPR1.2\OPR1.2\obj\Debug\OPR1.2.pdb
