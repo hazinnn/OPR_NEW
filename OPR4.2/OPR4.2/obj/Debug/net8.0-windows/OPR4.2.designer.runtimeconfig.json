@@ -1,0 +1,12 @@
+{
+  "runtimeOptions": {
+    "tfm": "net8.0",
+    "additionalProbingPaths": [
+      "C:\\Users\\hazin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hazin\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
