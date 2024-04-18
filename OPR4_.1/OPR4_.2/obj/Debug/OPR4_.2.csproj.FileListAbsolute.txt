@@ -1,0 +1,5 @@
+C:\Users\hazin\source\repos\OPR4_.2\OPR4_.2\obj\Debug\OPR4_.2.csproj.AssemblyReference.cache
+C:\Users\hazin\source\repos\OPR4_.2\OPR4_.2\obj\Debug\OPR4._2.Form1.resources
+C:\Users\hazin\source\repos\OPR4_.2\OPR4_.2\obj\Debug\OPR4_._2.Properties.Resources.resources
+C:\Users\hazin\source\repos\OPR4_.2\OPR4_.2\obj\Debug\OPR4_.2.csproj.GenerateResource.cache
+C:\Users\hazin\source\repos\OPR4_.2\OPR4_.2\obj\Debug\OPR4_.2.csproj.CoreCompileInputs.cache
